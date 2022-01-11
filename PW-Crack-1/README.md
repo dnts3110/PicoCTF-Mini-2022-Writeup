@@ -10,7 +10,7 @@ Use mkdir to create a directory and change to this directory to later download t
 
 > <img width="267" alt="Screen Shot 2022-01-12 at 2 06 26 am" src="https://user-images.githubusercontent.com/65474495/148967748-edec1b4c-37fe-4112-b525-e46eb9124136.png">
 
-The using nano to read that password checker file in Python
+Using nano to read that password checker file in Python
 > <img width="230" alt="Screen Shot 2022-01-12 at 2 08 49 am" src="https://user-images.githubusercontent.com/65474495/148968118-5ec427db-9a31-4440-b17e-eb055a4e5f6d.png">
 
 
