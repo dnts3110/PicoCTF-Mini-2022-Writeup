@@ -1,7 +1,7 @@
 # Question
 ![Screen Shot 2022-01-11 at 9 31 07 pm](https://user-images.githubusercontent.com/65474495/148927099-2c2ce454-6d40-431f-9a58-6da415042485.png)
 # Solution
-Use wget(include hyperlink) to get the given Python script 
+Use [wget](https://www.gnu.org/software/wget/manual/wget.html) to get the given Python script 
 > <img width="462" alt="Screen Shot 2022-01-11 at 10 02 44 pm" src="https://user-images.githubusercontent.com/65474495/148931196-7bf01667-687f-4773-bc86-04fe085d81a8.png">
 
 Then it should stored at the directory you are at, use "ls" to check 
