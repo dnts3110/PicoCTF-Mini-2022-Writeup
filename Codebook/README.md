@@ -12,5 +12,5 @@ Then I downloaded those two files using wget
 Then I ran the Python script code.py, which then gave the flag
 > <img width="284" alt="Screen Shot 2022-01-12 at 1 07 36 am" src="https://user-images.githubusercontent.com/65474495/148957741-71a46b79-5c06-4077-ac1d-eeb048f60473.png">
 
-#Flag
+# Flag
 > picoCTF{c0d3b00k_455157_8100c7c1}
